@@ -25,7 +25,7 @@ def callmenuOther(menubar):
         rootlabel = ttk.Label(labelframe2, text="We are IT Undergrads and Enthusiast Developers.",font=("bold", 10))
         rootlabel.configure(anchor="center") 
         rootlabel.grid()
-        rootlabel = ttk.Label(labelframe2, text="This Application is made by : \n -- Pratham Dahara \n -- Chahak Agarwal \n \n", width=30,font=("bold", 10))
+        rootlabel = ttk.Label(labelframe2, text="This Application is made by : \n -- Pratham Dahara \n --\n", width=30,font=("bold", 10))
         rootlabel.configure(anchor="center") 
         rootlabel.grid()
 
