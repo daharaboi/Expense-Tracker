@@ -22,7 +22,7 @@ def callmenuOther(menubar):
                 padx=30, pady=30, ipadx=30, ipady=30)
 
         AboutUs.title('About Us')
-        rootlabel = ttk.Label(labelframe2, text="We are IT Undergrads and Enthusiast Developers.",font=("bold", 10))
+        rootlabel = ttk.Label(labelframe2, text="IT Undergrad and Enthusiast Developer.",font=("bold", 10))
         rootlabel.configure(anchor="center") 
         rootlabel.grid()
         rootlabel = ttk.Label(labelframe2, text="This Application is made by : \n -- Pratham Dahara \n --\n", width=30,font=("bold", 10))
