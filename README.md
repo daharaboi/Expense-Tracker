@@ -2,6 +2,11 @@
 
 Welcome to the Expense Tracker repository! This project is a simple and intuitive expense tracking application built using Python and various libraries, including Tkinter, SQLite3, NumPy, Pandas, and Matplotlib. The Expense Tracker allows users to manage their finances efficiently by recording and visualizing their expenses.
 
+
+## Overview
+![image](https://github.com/daharaboi/Expense-Tracker/assets/113918325/a054766a-32b4-4fdc-8da8-dc0151cc1920)
+
+
 ## Features
 
 - **User-Friendly Interface:** The application provides an easy-to-use graphical interface using Tkinter, making it accessible for users of all levels.
